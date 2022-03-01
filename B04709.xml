@@ -1,0 +1,1027 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proposals for printing the English atlas</title>
+            <author>Pitt, Moses, fl. 1654-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04709</idno>
+            <idno type="STC">Wing P2308B</idno>
+            <idno type="STC">ESTC R187081</idno>
+            <idno type="EEBO-CITATION">51617507</idno>
+            <idno type="OCLC">ocm 51617507</idno>
+            <idno type="VID">175322</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04709)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175322)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2729:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proposals for printing the English atlas</title>
+                  <author>Pitt, Moses, fl. 1654-1696.</author>
+               </titleStmt>
+               <extent>[5+] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Suggested publication data from Wing.</note>
+                  <note>Includes a list of subscribers.</note>
+                  <note>Missing all after p. [5], which ends "height;".</note>
+                  <note>Reproduction of the original at the Universität Göttingen.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Atlases, British --  Early works to 1800.</term>
+               <term>Book proposals --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposals">
+            <pb facs="tcp:175322:1"/>
+            <pb facs="tcp:175322:1"/>
+            <pb facs="tcp:175322:2"/>
+            <pb facs="tcp:175322:2" rendition="simple:additions"/>
+            <head>THE PROPOSALS FOR Printing the Engliſh Atlas,</head>
+            <p>THAT whereas <hi>Moſes Pitt</hi> (of <hi>London,</hi> Bookſeller) being Encouraged by His Moſt Sacred Majeſty, his Royal High<g ref="char:EOLhyphen"/>neſs the Duke of <hi>York,</hi> his Highneſs Prince <hi>Rupert,</hi> both the Univerſities, the Royal Society, and divers others, the Nobility, Gentry, and Learned men of this Nation, to undertake the Printing of an Accurate Deſcription of the World; and reſolving to proceed with all convenient dili<g ref="char:EOLhyphen"/>gence, for the more effectual carrying on thereof, makes theſe following Offers:</p>
+            <list>
+               <item>I. He the ſaid <hi>Moſes Pitt</hi> having the advan<g ref="char:EOLhyphen"/>tage of making uſe of divers Plates already Grav'd, but more eſpecially of thoſe of <hi>Janſſons</hi> Atlas, doth deſign by renewing and regulating divers of them, and by adding many new Plates, to<g ref="char:EOLhyphen"/>gether with new Deſcriptions throughout, to Print a compleat Collection of Maps, Tables, or Deli<g ref="char:EOLhyphen"/>neations of the Heavens, Earth, and Seas, with their ſeveral parts, diviſions, and names, anci<g ref="char:EOLhyphen"/>ent and modern, in ſuch manner, that all the Maps ſhall have the ſame ſituation of North and South; and all things ſhall be as exactly and par<g ref="char:EOLhyphen"/>ticularly deſcrib'd, as can be done by the help of all the Maps and Delineations already extant in Print, and of as many others as can be pro<g ref="char:EOLhyphen"/>cured, of ſeveral things and places formerly but imperfectly deſcribed; as alſo of divers late and new diſcoveries of parts heretofore unknown, or not taken notice of as yet in any Maps.</item>
+               <item>II. To every Map ſhall be adjoined an expla<g ref="char:EOLhyphen"/>nation of the moſt obſervable matters and hiſto<g ref="char:EOLhyphen"/>ries of the places therein contained; wherein is intended that this Work ſhall exceed all that have preceded; as alſo an Alphabetical Index to be added at the end of each Volume, with di<g ref="char:EOLhyphen"/>rections for the ſpeedy finding them in their re<g ref="char:EOLhyphen"/>ſpective Maps.</item>
+               <item>III. He will Print the whole Work in as good Paper and Character as any of thoſe already Print<g ref="char:EOLhyphen"/>ed by <hi>Bleau, Janſſon, Sanſon,</hi> or any other.</item>
+               <item>IV. Whereas the Atlas's of <hi>Bleau</hi> and <hi>Janſſon</hi> are uſually comprehended in Eleven Volumes in Folio, in all the Languages hitherto; It is intend<g ref="char:EOLhyphen"/>ed that this Atlas in the <hi>Engliſh</hi> Tongue, ſhall be printed in Eleven Volumes likewiſe, each Vo<g ref="char:EOLhyphen"/>lume to be ſold to the Subſcribers at the rate of Forty ſhillings in Quires. But if thoſe Gentlemen that are concerned in the management of it, ſhall think fit to contrive it in fewer Volumes, it ſhall ſtill be at the rate of Forty ſhillings a Volume; and each Volume both in number of Maps and Deſcriptions, ſhall not conſiſt of leſs then fifty-five ſheet Maps and fifty-five printed ſheets of Tables and Deſcriptions, one with the other ac<g ref="char:EOLhyphen"/>cording to the judgment of the Directors.</item>
+               <item>V. He doth alſo promiſe to deliver to the Sub<g ref="char:EOLhyphen"/>ſcribers the ſeveral Volumes as they ſhall be com<g ref="char:EOLhyphen"/>pleated and finiſhed, they paying their Forty ſhil<g ref="char:EOLhyphen"/>lings at the time of their ſubſcribing, which is to be before the four and twentieth day of <hi>July,</hi> 1678; Forty ſhillings more at the delivery of the Firſt Volume, Forty ſhillings at the delivery of the Second Volume, and the ſame ſum to be paid upon delivery of each of the other Volumes ſucceſſively, only the two laſt to be deliver'd at twenty ſhil<g ref="char:EOLhyphen"/>lings a Volume; for which ſeveral ſums afore<g ref="char:EOLhyphen"/>ſaid, the ſaid <hi>Moſes Pitt</hi> will give his Receipt un<g ref="char:EOLhyphen"/>der his own Hand and Seal, with two Witneſſes thereunto, with an engagement to deliver to the Subſcribers or their Aſſigns, at his Shop in St. <hi>Pauls</hi> Church-yard, they making good their Subſcrip<g ref="char:EOLhyphen"/>tions, the ſeveral Volumes as they ſhall be print<g ref="char:EOLhyphen"/>ed, according to the plain meaning of theſe Pro<g ref="char:EOLhyphen"/>poſals.</item>
+               <item>VI. No Volume ſhall be ſold ſingly to any Gentleman whatever, except the Subſcribers (by the Bookſeller <hi>Moſes Pitt</hi>) under Five and fifty ſhillings in Quires; neither ſhall any Volume be deliver'd to any perſon whatſoever, before all the Subſcribers have theirs, provided they ſend for them within one month after notice given in the <hi>Gazette</hi> of the finiſhing of every Volume.</item>
+               <item>VII. The firſt Volume begins with the North-Pole, and the places and Countries next unto it, before which is to be added an Introduction to Geography, ſuch as ſhall be adviſed by the per<g ref="char:EOLhyphen"/>ſons after-named, together with a Map of the Terreſtrial Globe, and Maps of the greater Di<g ref="char:EOLhyphen"/>viſions or Parts of the Earth. This Volume is intended to be compleated before the four and twentieth day of the next enſuing <hi>March.</hi> The next Volume deſigned, is that which contains the <hi>Low Countries</hi> and Weſt part of <hi>Germany,</hi> where hath lately been, and ſtill is the ſcene of the greateſt actions now on foot, intended to be compleated within ſix months after the ſaid four and twentieth day of <hi>March.</hi> The ſaid time pro<g ref="char:EOLhyphen"/>portionably allow'd for the compleating of all the reſt; unleſs it be judged neceſſary by the Directors, that a longer time be allow'd for ſome of the Volumes.</item>
+               <item>VIII. Whoſoever ſhall ſubſcribe for ten com<g ref="char:EOLhyphen"/>pleat Books, ſhall for the ſame price have eleven compleat Books in Quires deliver'd to him.</item>
+               <item>IX. Becauſe ſeveral Gentlemen do complain that they have been deceived by ſeveral Propo<g ref="char:EOLhyphen"/>ſers in this nature, therefore for the punctual per<g ref="char:EOLhyphen"/>formance of what is here undertaken, the Book<g ref="char:EOLhyphen"/>ſeller <hi>Moſes Pitt,</hi> has already given ſufficient Se<g ref="char:EOLhyphen"/>curity to Sir <hi>Joſeph Williamſon,</hi> one of his Maje<g ref="char:EOLhyphen"/>ſties Principal Secretaries of State, and Preſident of the <hi>Royal Society,</hi> for performance of his En<g ref="char:EOLhyphen"/>gagement and Propoſals.</item>
+               <item>X. It is requeſted, that every Subſcriber to this great Undertaking, would be pleaſed to ſet down the County and place of his Habitation, together with directions how to ſend to him, to the end that notice may be given him accord<g ref="char:EOLhyphen"/>ing as the Work goes forwaad.</item>
+            </list>
+            <p>WHereas his moſt Sacred Majeſty has been Graciouſly pleaſed, for the promoting of this Deſign, to permit that his Collections of Maps and Deſcriptions of Countries may be peruſed, that ſuch of them as have not yet been publiſhed, and are thought proper for this work, may be taken into it; and whereas his Royal Highneſs, and his Highneſs Prince <hi>Rupert,</hi> have been alſo pleaſed to promiſe the ſame favour; and the like has been done by the Right Ho<g ref="char:EOLhyphen"/>norable
+<pb facs="tcp:175322:3"/>Sir <hi>Joſeph Williamſon,</hi> one of his Ma<g ref="char:EOLhyphen"/>jeſties Principal Secretaries of State, and Preſi<g ref="char:EOLhyphen"/>dent of the Royal Society; and alſo by the moſt learned Dr. <hi>Iſaac Voſſius,</hi> who is pleaſed to com<g ref="char:EOLhyphen"/>municate his moſt copious and exquiſite Col<g ref="char:EOLhyphen"/>lections; and it is hoped that the ſame will be done by ſeveral other perſons of Honour and Quality; therefore it is humbly deſired, that all Gentlemen, who have any particular Maps or Relations of new Diſcoveries, or any more per<g ref="char:EOLhyphen"/>fect deſcriptions of places already known, would be pleaſed to ſend the ſame to the ſaid <hi>Moſes Pitt,</hi> who will give ſufficient ſecurity for the ſafe return of the ſame unprejudiced, and if they ſhall be thought proper (by the perſons here<g ref="char:EOLhyphen"/>after mentioned) to be inſerted, he will take care that it ſhall be done, and that the obliga<g ref="char:EOLhyphen"/>tion ſhall be thankfully acknowledged in ſuch manner as ſhall be to their own beſt ſatisfaction.</p>
+            <div type="list_of_subscribers">
+               <opener>
+                  <date>
+                     <hi>May</hi> 3, 1678.</date>
+               </opener>
+               <p>WE whoſe names are here ſubſcribed, not doubting but that this Work will be of great Uſe, and for the Honour of the Nation, and being deſired by <hi>Moſes Pitt,</hi> to give him our Aſſiſtance, that he may be the better enabled to perform it, do promiſe that we will from time to time, at ſpare hours, both give our Advice for the carrying on of the Work; and further, ſince he offers to refer himſelf to us in divers of his Propoſals, we will obſerve how he makes them good, and give an account thereof to Sir <hi>Joſeph Williamſon,</hi> Preſident of the <hi>Royal Society,</hi> or to the Preſident of the ſaid Society for the time being:</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>Chr. Wren</item>
+                        <item>Iſaac Voſſius.</item>
+                        <item>John Pell.</item>
+                        <item>W. Lloyd.</item>
+                        <item>Tho. Gale.</item>
+                        <item>Rob. Hook.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="list_of_subscribers">
+               <p>UPon peruſing theſe preceding Propoſals, we whoſe Names are underwritten, well approving and highly commending this Deſign of the ſaid <hi>Moſes Pitt,</hi> do for his encouragement not only ſubſcribe our ſelves for one or more Copies of the ſaid Book, but alſo do recommend ſo Noble and Uſeful a Deſign to the reſt of the Nobility and Gentry throughout his Majeſties Dominions.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>The</hi> KING'S <hi>moſt Excellent Majeſty.</hi>
+                        </item>
+                        <item>
+                           <hi>The</hi> QUEEN'S <hi>Majeſty.</hi>
+                        </item>
+                        <item>
+                           <hi>His Royal Highneſs the Duke of</hi> YORK.</item>
+                        <item>
+                           <hi>Her Royal Highneſs the Dutcheſs of</hi> YORK.</item>
+                        <item>
+                           <hi>Her Highneſs the Lady</hi> ANN.</item>
+                        <item>
+                           <hi>His Highneſs</hi> CHARLES-LEWIS <hi>Elector Palatine of the</hi> RHINE.</item>
+                        <item>
+                           <hi>His Highneſs Prince</hi> RUPERT.</item>
+                     </list>
+                     <list>
+                        <item>JAMES late Lord Archbiſhop of St. Andrews.</item>
+                        <item>ALEXANDER Ld. Archbiſhop of St. Andrews.</item>
+                        <item>ARTHUR Earl of Angleſey, Lord Privy Seal.</item>
+                        <item>CHARLES Duke of Albemarle, Captain of the King's Guards.</item>
+                        <item>HENRY Earl of Arlington, Lord Chamber<g ref="char:EOLhyphen"/>lain of His Majeſty's Houſhold.</item>
+                        <item>HENRY HOWARD Earl of Arundel.</item>
+                        <item>ROBERT Earl of Ailesbury.</item>
+                        <item>ARCH. Earl of Argyll.</item>
+                        <item>HENRY Lord Arundel, Baron of Warder, Count of the Sacred Empire.</item>
+                        <item>Robert Abbot.</item>
+                        <item>John Adams of the Inner Temple.</item>
+                        <item>Richard Adams M. A.</item>
+                        <item>William Addams <abbr>Eſq</abbr> of Logdon in Shropſh.</item>
+                        <item>Henry Aldrich, Student of Ch. Ch. Oxon.</item>
+                        <item>William Aldworth <abbr>Eſq</abbr>
+                        </item>
+                        <item>Will. Allen, of Much-Hadham in Hertfordſh.</item>
+                        <item>Richard Alleſtree D. D. Provoſt of Eaton.</item>
+                        <item>William Alleſtree <abbr>Eſq</abbr> of Walton in Darbyſh.</item>
+                        <item>Jo. Alport <abbr>Eſq</abbr>
+                        </item>
+                        <item>Alexander Anderſone <abbr>Eſq</abbr>
+                        </item>
+                        <item>Tho. Andrew <abbr>Eſq</abbr> of Harleſtone in North.</item>
+                        <item>Sir Peter Apſley.</item>
+                        <item>Thomas Archer <abbr>Eſq</abbr>
+                        </item>
+                        <item>Thomas Arundel, Merchant of London.</item>
+                        <item>Elias Aſhmole <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sir Ralph Aſhton Bar. of Middleton in Lanc.</item>
+                        <item>William Aſhurſt <abbr>Eſq</abbr> London.</item>
+                        <item>Sir Jac. Aſtley Bar. of Melton Norfolk.</item>
+                        <item>John Ayde <abbr>Eſq</abbr>
+                        </item>
+                        <item>Philip Ayres <abbr>Eſq</abbr>
+                        </item>
+                        <item>JOHN Earl of Bridgwater, High Steward of the Univerſity of Oxon.</item>
+                        <item>JOHN Earl of Bath, Grome of the Stole to His Majeſty.</item>
+                        <item>RICHARD Earl of Burlington.</item>
+                        <item>CHARLES Beauclair Earl of Burford.</item>
+                        <item>GEORGE Earl of Berkley.</item>
+                        <item>COLIN Earl of Balcares.</item>
+                        <item>VVILLIAM Vicount Brouncker.</item>
+                        <item>PETER Lord Biſhop of Bath and Wells.</item>
+                        <item>JOHN Lord Bellaſyſe, Baron of Worlaby.</item>
+                        <item>CHARLES Lord Berkley of Straton.</item>
+                        <item>JOHN Lord Brackley.</item>
+                        <item>ROBERT Boyle <abbr>Eſq</abbr>
+                        </item>
+                        <item>Francis Baber <abbr>Eſq</abbr>
+                        </item>
+                        <item>Edward Backwell <abbr>Eſq</abbr> of London.</item>
+                        <item>Robert Baird <abbr>Eſq</abbr>
+                        </item>
+                        <item>Henry Baker <abbr>Eſq</abbr>
+                        </item>
+                        <item>Henry Bal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 
+                           <abbr>Eſq</abbr>
+                        </item>
+                        <item>William Ball <abbr>Eſq</abbr> of Grays-Inn.</item>
+                        <item>Robert Band <abbr>Eſq</abbr>
+                        </item>
+                        <item>Caleb Banks <abbr>Eſq</abbr> of Aylesford in Kent.</item>
+                        <item>Thomas Barrow, Citizen of London.</item>
+                        <item>Edward Bartlet Jun. of Oxford.</item>
+                        <item>Sir William Baſſet, of Somerſetſhire.</item>
+                        <item>Ralph Bathurſt M. D. Dean of Wells, and Pre<g ref="char:EOLhyphen"/>ſident of Trinity Coll. Oxon.</item>
+                        <item>Benjamin Bathurſt <abbr>Eſq</abbr> Deputy-Governor of the African Company, under his R. Highneſs.</item>
+                        <item>Edw. Bathurſt, Fellow of Trinity Coll. Camb.</item>
+                        <item>Bartholomew Beal <abbr>Eſq</abbr> of Buckinghamſhire.</item>
+                        <item>Richard Beal, Merchant in Hamburg.</item>
+                        <item>John Bende <abbr>Eſq</abbr>
+                        </item>
+                        <item>John Bennet <abbr>Eſq</abbr>
+                        </item>
+                        <item>George Benſon D. D. Dean of Hereford.</item>
+                        <item>Francis Bernard, M. D. of London.</item>
+                        <item>Sir Tho. Berney Bar. of Bark-Hall in Norf.</item>
+                        <item>Hen. Beeſton L.L.D. VVarden of New C. Ox.</item>
+                        <item>Sir John Berry, Capt. of the Leopard.</item>
+                        <item>Thomas Beverly <abbr>Eſq</abbr>
+                        </item>
+                        <item>Stewart Bickerſtaff <abbr>Eſq</abbr> of Wilderneſs in Kent.</item>
+                        <item>Leon. Bilſon <abbr>Eſq</abbr> of Mapledurham in Hanſh.</item>
+                        <item>Sir John Blande Bar. of Yorkſhire.</item>
+                        <item>William Blathwait <abbr>Eſq</abbr>
+                        </item>
+                        <item>John Bleau of Amſterdam, (whoſe Father publiſhed a Latin Atlas).</item>
+                        <item>Thomas Blofeld of Norfolk.</item>
+                        <item>Thomas Blomer, D. D.</item>
+                        <item>Charles Blount <abbr>Eſq</abbr>
+                        </item>
+                        <item>Chriſtopher Boon, Merchant.</item>
+                        <item>John Boon <abbr>Eſq</abbr> of Mount Boon in Devonſh.</item>
+                        <item>Sir Wil. Boreman, Clerk of the Green Cloth.</item>
+                        <item>Sir Oliver Boteler Bar. of Kent.</item>
+                        <item>Tho. Boteler, Fellow of Trinity Col. Camb.</item>
+                        <item>Edward Bounerie, Merchant in Durham.</item>
+                        <item>Will. Bowes <abbr>Eſq</abbr> of Stratelam.</item>
+                        <item>Robert Brady M. D. Maſter of Gonvil and Caius Coll. Cambridg.</item>
+                        <item>John Breedon <abbr>Eſq</abbr> of Pangbourn in Barkſh.</item>
+                        <item>William Bridgman <abbr>Eſq</abbr>
+                        </item>
+                        <item>Robert Briſcoe, Citizen of London.</item>
+                        <item>Edward Browne M. D. London.</item>
+                        <item>Peter Brown, of Langley Kent.</item>
+                        <item>Thomas Brown, Bookſeller of Edinborough, in Scotland.</item>
+                        <item>Rich. Bulkeley <abbr>Eſq</abbr> of Old Bawne in the County of Dublin in Ireland.</item>
+                        <item>John Bullingham, of Ketton in Rutland.</item>
+                        <item>Gilb. Burnet P. D. of the Rolles in London.</item>
+                        <item>William Burnet M. D.</item>
+                        <item>Nath. Burr, Merchant of Amſterdam.</item>
+                        <item>Arthur Bury D. D. Rector of Exeter Coll. Oxon.</item>
+                        <item>WILLIAM Lord Archbiſhop of Canterbury.</item>
+                        <item>HENRY Earl of Clarendon.</item>
+                        <item>JOHN Earl of Caithneſs.</item>
+                        <item>ROGER Earl of Caſtlemain.</item>
+                        <item>ROBERT Lord Vicount Cholmondely.</item>
+                        <item>JOHN Lord Biſhop of Cheſter.</item>
+                        <item>GEORGE Lord Coventry.</item>
+                        <item>CHARLES Lord Cornwallis.</item>
+                        <item>Sir GEORGE Carteret, late Vice-Chamber<g ref="char:EOLhyphen"/>lain of His Majeſty's Houſhold.</item>
+                        <item>Sir ROBERT Clayton Lord Mayor of Lond.</item>
+                        <item>Jacob Callaber, Merchant of Amſterdam.</item>
+                        <item>Sir Henry Calverley.</item>
+                     </list>
+                     <list>
+                        <head>
+                           <hi>Colleges and Halls in</hi> Cambridg <hi>which have Subſcribed, are</hi>
+                        </head>
+                        <item>Chriſt. Coll. Dr. R. Cudworth Mr.</item>
+                        <item>Clare Hall Dr. Sam. Blith Mr.</item>
+                        <item>Corpus Xti. Coll. Dr. J. Spencer Mr.</item>
+                        <item>Emanuel Coll. Dr. Tho. Holbech Mr.</item>
+                        <item>Gonville and Caius Coll. Dr. R. Brady Mr.</item>
+                        <item>Jeſus Coll. Dr Saiwel Mr.</item>
+                        <item>St. Johns Coll. Dr. Gower Mr.</item>
+                        <item>Katherine Hall Dr. J. Eachard Mr. and Vice-Chancellor.</item>
+                        <item>Kings Coll. Sr. Tho. Page Provoſt.</item>
+                        <item>Magdalen Coll. Dr. Peachel Mr.</item>
+                        <item>Pembrok Hall Dr. Nath. Coga Mr.</item>
+                        <item>St. Peters Coll. Dr. Beaumont Mr.</item>
+                        <item>Queens Coll. Dr. Henry James Mr.</item>
+                        <item>Sidney-Suſſex Coll. Dr. Minſhul Mr.</item>
+                        <item>Trinity Coll. Dr. North Mr.</item>
+                        <item>Dean and Chapter of Canterbury.</item>
+                        <item>John Caſtillion D. D. Dean of Rocheſter.</item>
+                        <item>Sir John Caſtleton Bar.</item>
+                        <item>Thomas Chalmers <abbr>Eſq</abbr>
+                        </item>
+                        <item>Thomas Chambers <abbr>Eſq</abbr>
+                        </item>
+                        <item>John Chaſe <abbr>Eſq</abbr> Apothecary to His Majeſty.</item>
+                        <item>Robert Chaſe.</item>
+                        <item>Thomas Cheek <abbr>Eſq</abbr> Lieutenant of the Tower.</item>
+                        <item>Knightley Chetwodd, Fellow of Kings Coll. Cambridg.</item>
+                        <item>Walter Chetwynd <abbr>Eſq</abbr> of Ingeſte.</item>
+                        <item>Sir John Chichly, Commiſſ. of the Ordinance.</item>
+                        <item>Francis Cholmondeley <abbr>Eſq</abbr> of Cheſhire.</item>
+                        <item>Sir Hugh Cholmeley, alias Cholmondeley, Bar.</item>
+                        <item>Chaloner Chute <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sir Thomas Clargis.</item>
+                        <item>Samuel Clarke <abbr>Eſq</abbr> of Snaylwel in the County of Cambridg.</item>
+                        <item>Lawrence Clayton <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sir Thomas Clayton, Warden of Merton Coll. Oxon.</item>
+                        <item>George Clifford Merchant in Amſterdam.</item>
+                        <item>Chr. Clitherow <abbr>Eſq</abbr> of Riſlip in Middleſex.</item>
+                        <item>Tho. Clitherow <abbr>Eſq</abbr> of Pinner in Middleſex.</item>
+                        <item>Sir Thomas Clutterbuck.</item>
+                        <item>Duthlerus Cluverius Sleſvicenſis.</item>
+                        <item>Mark Cocky Merchant in Amſterdam.</item>
+                        <item>Rich. Coffin <abbr>Eſq</abbr> of Portledge in Devonſh.</item>
+                        <item>Thomas Cole.</item>
+                        <item>Sir John Coell, Maſter of Chancery.</item>
+                        <item>Richard Colinge <abbr>Eſq</abbr>
+                        </item>
+                        <item>Charles-Dutton Colt <abbr>Eſq</abbr>
+                        </item>
+                        <item>Harry-Dutton Colt <abbr>Eſq</abbr>
+                        </item>
+                        <item>William-Dutton Colt <abbr>Eſq</abbr>
+                        </item>
+                        <item>Daniel Colwall <abbr>Eſq</abbr> of London.</item>
+                        <item>Ja. Compton <abbr>Eſq</abbr>
+                        </item>
+                        <item>John Cony <abbr>Eſq</abbr> of Rocheſter.</item>
+                        <item>Tho. Cook <abbr>Eſq</abbr> of Hadly in Suffolk.</item>
+                        <item>Sir John Corbet Bar. of Longnor in Shropſh.</item>
+                        <item>Sir Vincent Corbet Bar. of Acton-Reynold in Shropſh.</item>
+                        <item>John Corrance <abbr>Eſq</abbr> of Suffolk</item>
+                        <item>Mark Cottle <abbr>Eſq</abbr> Regiſter of the Prerogative Court.</item>
+                        <item>Sir Ch. Cotterel, Maſter of the Ceremonies.</item>
+                        <item>Sir Robert Cotton Kt. Bar. of Cheſhire.</item>
+                        <item>Sir John Covert Kt Bar.</item>
+                        <item>Joſeph Cox, for the Library of Winton.</item>
+                        <item>Richard Cox <abbr>Eſq</abbr>
+                        </item>
+                        <item>Edward Cranfeild <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sir Ceſar Cranmer.</item>
+                        <item>Henry Criſpe <abbr>Eſq</abbr> Comon Serjeant of London.</item>
+                        <item>John Cudworth, Citizen of London.</item>
+                        <item>Sir Thomas Cullum, of Horſted-place in Suffolk.</item>
+                        <item>HENEAGE Finch, Baron of Daventry, Lord High Chancellor of England.</item>
+                        <item>CHARLES Earl of Dorſet.</item>
+                        <item>WILLIAM Earl of Devonſhire.</item>
+                        <item>THOMAS Osborne Earl of Danby.</item>
+                        <pb facs="tcp:175322:3" rendition="simple:additions"/>
+                        <item>GEORGE Earl of Dumbarton.</item>
+                        <item>NATHANAEL Lord Biſhop of Durham.</item>
+                        <item>ROBERT Deincourt, eldeſt Son of the Earl of Scarsdale.</item>
+                        <item>JOHN Drummond <abbr>Eſq</abbr> of Londy.</item>
+                        <item>Sir EDWARD Dering Bar. of Surrenden-Dering in Kent, one of the Lords Com<g ref="char:EOLhyphen"/>miſsioners of the Treaſury.</item>
+                        <item>JAMES Dick of Prieſtfield, Provoſt of Eden<g ref="char:EOLhyphen"/>burgh.</item>
+                        <item>Sir Henry Dacres.</item>
+                        <item>Sr. Thomas Darcy Bar. of Eſſex.</item>
+                        <item>Robert Daſhwood <abbr>Eſq</abbr> Fellow Commoner of Trinity Coll. Oxon.</item>
+                        <item>Samuel Davall, Merchant of Amſterdam.</item>
+                        <item>James Davenant, Fellow of Oriel Coll. Oxon.</item>
+                        <item>Iſaak Davis Merchant of Rotterdam.</item>
+                        <item>Richard Davis Bookſeller in Oxon.</item>
+                        <item>Ro. Davies <abbr>Eſq</abbr> of Llannerch in Denbyſhire.</item>
+                        <item>Thomas Deane, Merchant of London.</item>
+                        <item>Um. Denne <abbr>Eſq</abbr> of Denne in Kent.</item>
+                        <item>Chriſtopher Dering <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sir Edward Dering, of Sharſted in Kent.</item>
+                        <item>William Dickinſon <abbr>Eſq</abbr>
+                        </item>
+                        <item>John Dod B. D. of Hinton Northamptonſh.</item>
+                        <item>Sir William Dolben, one of the Judges of the Kings Bench.</item>
+                        <item>Henry Dove D. D. of St. Brides London.</item>
+                        <item>Tho. Doughty D. D. Canon of Windſor.</item>
+                        <item>Sir William Drake Bar.</item>
+                        <item>Jonathan Dreyden B. D.</item>
+                        <item>William Ducket <abbr>Eſq</abbr>
+                        </item>
+                        <item>Charles Duncomb <abbr>Eſq</abbr>
+                        </item>
+                        <item>James Duport D. D. Dean of Peterborough.</item>
+                        <item>John Durell D. D. Dean of Windſor.</item>
+                        <item>ARTHUR Earl of Eſſex.</item>
+                        <item>PETER Lord Biſhop of Ely.</item>
+                        <item>THOMAS Lord Biſhop of Exeter.</item>
+                        <item>ALEXANDER Lord Biſhop of Edenbourgh.</item>
+                        <item>Sir JOHN Ernle, Chancellor of the Exche<g ref="char:EOLhyphen"/>quer, and one of the Lords Commiſsioners of the Treaſury.</item>
+                        <item>Francis Eedes M. D. of London.</item>
+                        <item>Sir John Egerton Bar.</item>
+                        <item>Sir Philip Egerton Bar. of Cheſhire.</item>
+                        <item>John Elliot M. D.</item>
+                        <item>Robert Elliot B. D. Miniſter of Fladburg in Worceſterſhire.</item>
+                        <item>Mr. Ellis, of Gonville and Caius Coll. in Cambridg.</item>
+                        <item>John Ellis D. D. Chanter of St. Davids.</item>
+                        <item>Sir John Elwes, of Grove Houſe.</item>
+                        <item>Thomas Eliott <abbr>Eſq</abbr>
+                        </item>
+                        <item>George Evelyn <abbr>Eſq</abbr>
+                        </item>
+                        <item>John Evelyn <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sr. Richard Everard Bar. of Eſſex.</item>
+                        <item>Lawrence Euſden A. M.</item>
+                        <item>Dean and Chapter of Exeter.</item>
+                        <item>THOMAS Lord Vicount Fauconberg.</item>
+                        <item>ROBERT Lord Ferrers.</item>
+                        <item>JOHN Lord Freſcheville, Baron of Stavely.</item>
+                        <item>WILLIAM Lord Fitzwilliams.</item>
+                        <item>CHARLES Fanſhaw <abbr>Eſq</abbr> His Majeſty's En<g ref="char:EOLhyphen"/>voy Extraordinary to Portugal.</item>
+                        <item>Sir STEPHEN Fox, one of the Lords Com<g ref="char:EOLhyphen"/>miſsioners of the Treaſury.</item>
+                        <item>CHARLES Finch <abbr>Eſq</abbr> Fellow of Allſouls Coll. Oxon.</item>
+                        <item>Sr. Palmes Fairbourn, Governour of Tangier.</item>
+                        <item>Sir John Falconer, Maſter of His Majeſties Mint in Scotland.</item>
+                        <item>Will. Farre, of Buſhel in Middleſex.</item>
+                        <item>Charles Feltham, Citizen of London.</item>
+                        <item>Robert Fielding <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sir Jo. Fenwick, of Fenwick in Northumb.</item>
+                        <item>John Fiſher M. D. London.</item>
+                        <item>John Fitz-Williams D. D.</item>
+                        <item>Thomas Flatman <abbr>Eſq</abbr> London.</item>
+                        <item>Daniel Fleming <abbr>Eſq</abbr> of Rydal in Weſtmerland.</item>
+                        <item>Edward Fleming <abbr>Eſq</abbr> of Hampſhire.</item>
+                        <item>Eben Ezer Foreneſſe Miniſt.</item>
+                        <item>William Foreſter <abbr>Eſq</abbr> of Dot-hill in Shropſh.</item>
+                        <item>Robert Fox <abbr>Eſq</abbr> London.</item>
+                        <item>Sir William Franklin.</item>
+                        <item>James Frazer <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sir John Frederick, Preſident of Chriſts Hoſ<g ref="char:EOLhyphen"/>pital for the uſe of the Children of His Majeſty's new Royal Foundation there.</item>
+                        <item>Thomas Frewen, of Northam in Suſſex.</item>
+                        <item>Sam. Fuller D. D. Chancellor of Lincoln.</item>
+                        <item>HENRY Duke of Grafton.</item>
+                        <item>HENRY Lord Grey of Ruthin.</item>
+                        <item>JOHN Lord Biſhop of Galloway.</item>
+                        <item>SYD. Godolphin <abbr>Eſq</abbr> one of the Lords Com<g ref="char:EOLhyphen"/>miſsioners of the Treaſury.</item>
+                        <item>Tho. Gale D. D. Maſter of St. Pauls School in London.</item>
+                        <item>John Gantlet <abbr>Eſq</abbr>
+                        </item>
+                        <item>Edmond Gardiner <abbr>Eſq</abbr> of Bedfordſh.</item>
+                        <item>Fran. Gardiner Alderman, of Norwich.</item>
+                        <item>James Gardiner D. D. Subdean of Linc.</item>
+                        <item>Thomas Gardiner <abbr>Eſq</abbr> Controuler of the Poſt-Office in London.</item>
+                        <item>Richard Garth <abbr>Eſq</abbr>
+                        </item>
+                        <item>Orlando Gee <abbr>Eſq</abbr> Regiſter of the High Court of Admiralty.</item>
+                        <item>William Genew <abbr>Eſq</abbr>
+                        </item>
+                        <item>Thomas Gill, Citizen of London.</item>
+                        <item>Roger Gillingham <abbr>Eſq</abbr>
+                        </item>
+                        <item>William Gore <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sir William Godolphin Bar. of Godolphin in Cornwall.</item>
+                        <item>Hierom Gohory <abbr>Eſq</abbr>
+                        </item>
+                        <item>Charles Goodall M. D. Fellow of the Kings Coll. of Phyſitians in London.</item>
+                        <item>G. Gooddall Fellow B. D. of Exeter Coll. Ox.</item>
+                        <item>Richard Goodall, Citizen of London.</item>
+                        <item>Sir Robert Gordon of Gordonſtone.</item>
+                        <item>Robert Gordon <abbr>Eſq</abbr> of Clunne.</item>
+                        <item>William Leveſon Gower <abbr>Eſq</abbr>
+                        </item>
+                        <item>John Graham <abbr>Eſq</abbr>
+                        </item>
+                        <item>John Green <abbr>Eſq</abbr>
+                        </item>
+                        <item>Will. de Grey <abbr>Eſq</abbr> of Merbon in Norf.</item>
+                        <item>Francis Griffith <abbr>Eſq</abbr> of London.</item>
+                        <item>Sr. Thomas Groſvenor Bar. of Cheſhire.</item>
+                        <item>William Guiſe Fellow of Allſouls Coll. Oxon.</item>
+                        <item>John Guiſe Fellow of C.C.C. Oxon.</item>
+                        <item>THEOPHILUS Earl of Huntingdon.</item>
+                        <item>WILLIAM Lord Howard, Baron of Eſcrick.</item>
+                        <item>LAWR. Hyde <abbr>Eſq</abbr> Firſt Lord Commiſsioner of the Treaſury.</item>
+                        <item>THOMAS Herbert <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sir ROBERT Howard, Auditor to the Excheq.</item>
+                        <item>CHARLES Hatton <abbr>Eſq</abbr>
+                        </item>
+                        <item>Theod. Haak <abbr>Eſq</abbr> of London.</item>
+                        <item>Henry Hall <abbr>Eſq</abbr>
+                        </item>
+                        <item>John Hall <abbr>Eſq</abbr>
+                        </item>
+                        <item>John Hall <abbr>Eſq</abbr>
+                        </item>
+                        <item>Will. Hammond <abbr>Eſq</abbr> of St. Albons in Kent.</item>
+                        <item>Sir Will Halford, of Welham in Leiceſterſh.</item>
+                        <item>Tho. Halſey <abbr>Eſq</abbr> of Great Gudsden in Herf.</item>
+                        <item>Tim. Halton D. D. Provoſt of Queens Coll. Oxon. and Vice-Chancellor.</item>
+                        <item>John Hampden <abbr>Eſq</abbr> of Hambden in Bucks.</item>
+                        <item>Robert Hampſon, Serjeant at Law, of the Inner Temple.</item>
+                        <item>Sr. Tho. Hare Bar. of Stow-Hall Norf.</item>
+                        <item>Edward Harris.</item>
+                        <item>John Hartcliffe, Fellow of Kings Coll. Camb.</item>
+                        <item>George Haſcard D. D. Rector of St. Clements Danes in London.</item>
+                        <item>John Harvey <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sir Will. Haſlewood, of Maidwell in North.</item>
+                        <item>Henry Hawley <abbr>Eſq</abbr> of Branford. Middleſ.</item>
+                        <item>Iſrael Hayes, Merchant in Amſterdam.</item>
+                        <item>Jo. Hawtrey, Fellow of Kings Coll. Camb.</item>
+                        <item>Robert Hawtrey <abbr>Eſq</abbr> of Riſlip in Middleſex.</item>
+                        <item>Peter de la Hay, of Weſtminſter.</item>
+                        <item>Tho. Hayes, of Crattfield in Suffolk.</item>
+                        <item>Edward Haynes <abbr>Eſq</abbr>
+                        </item>
+                        <item>Nicholas Hayward, Pub. Notary of London.</item>
+                        <item>Charles Hear<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</item>
+                        <item>Tho. Henſhaw <abbr>Eſq</abbr> of Kenſington Middleſex.</item>
+                        <item>John Herbert <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sir John Hewly, of Yorkſhire</item>
+                        <item>Charles Hickman, M.A. of Ch. Ch. Oxon.</item>
+                        <item>Samuel Hieron, M. A. of Huniton in Devon.</item>
+                        <item>Thomas Hillerſden <abbr>Eſq</abbr> of Elſtow in Bedf.</item>
+                        <item>Abraham Hill <abbr>Eſq</abbr> of London.</item>
+                        <item>Rich. Hill, Canon Reſid. of Sarum.</item>
+                        <item>Thomas Hill <abbr>Eſq</abbr> of Silton in Shropſh.</item>
+                        <item>Samuel Hoadley, of Tottenham-Highcroſs.</item>
+                        <item>Tho. Holbech D. D. Mr. of Emanuel Coll. Cambridg.</item>
+                        <item>Tho. Holdſworth, Dean of Midleham in Yor.</item>
+                        <item>Patrick Home <abbr>Eſq</abbr>
+                        </item>
+                        <item>Barth. van Homrigh, Merchant in Amſterd.</item>
+                        <item>Robert Hook <abbr>Eſq</abbr> of Greſham Coll. Lond.</item>
+                        <item>Walter Hooper <abbr>Eſq</abbr> of Stokebury in Kent.</item>
+                        <item>Anthony Horneck, B. D. of the Savoy.</item>
+                        <item>George Horſnell, Citizen of London.</item>
+                        <item>Sr. Richard How Bar. of Compton in Glouc.</item>
+                        <item>Ferd. Hudleſton <abbr>Eſq</abbr> of Millon-Caſtle Cumb.</item>
+                        <item>Mr. Humphries, Rector of Barton in the Clay.</item>
+                        <item>Sr. Tho. Huſſey Bar. of Lincolnſhire.</item>
+                        <item>Will. Huſſey, Merchant of London.</item>
+                        <item>John Huxley <abbr>Eſq</abbr> of Broſeley in Shropſhire.</item>
+                        <item>Tho. Huxley, Fellow of Jeſus Coll. Oxon.</item>
+                        <item>Harry Hyrne, of Kenſington in Middleſex.</item>
+                        <item>Sir LEOLINE Jenkins, Principal Secretary of State.</item>
+                        <item>Will. Jackſon M. D. of Nantwich.</item>
+                        <item>Ja. Jacobſon <abbr>Eſq</abbr> Mr. of the Steel-Yard</item>
+                        <item>Tho. James D. D. Warden of All-Souls Coll. Oxon.</item>
+                        <item>Will. Jane D. D. Reg. Prof. in Oxon.</item>
+                        <item>Nich. Johnſon <abbr>Eſq</abbr>
+                        </item>
+                        <item>Edward Johnſon of Oxford</item>
+                        <item>Peter Joy Merchant of London.</item>
+                        <item>Sr. Tho. Iſham Bar. of Lamport Northampt.</item>
+                        <item>ANTHONY Earl of Kent</item>
+                        <item>Thomas Kerby Merchant of Amſterdam</item>
+                        <item>Charles Killigrew <abbr>Eſq</abbr>
+                        </item>
+                        <item>Abraham Kick Merchant of Amſterdam</item>
+                        <item>Will. Kinſmill of Sydmonton <abbr>Eſq</abbr> in Hampſh.</item>
+                        <item>Sir N. Knatchbull Kt Bar. of Marſham in Kent.</item>
+                        <item>JOHN Duke of Lauderdale.</item>
+                        <item>GEORGE Earl of Linlithgow General of his Majeſties Forces in Scotland</item>
+                        <item>FRED. Alefeild Count of Langland and Rix<g ref="char:EOLhyphen"/>ingen, Great Chancellor to the King of Denmark</item>
+                        <item>HENRY Ld. Bp. of London</item>
+                        <item>THOMAS Ld. Bp. of Lincoln.</item>
+                        <item>CHRISTIAN Lindenaw, Chamberlain to the King of Denmark and Envoy Extraordina<g ref="char:EOLhyphen"/>ry to the King of England</item>
+                        <item>Edward Lake D. D.</item>
+                        <item>Sr. James Langham, Bar. of Cottesbrook Nor<g ref="char:EOLhyphen"/>thamptonſhire</item>
+                        <item>Sr. William Langham of Walgrave</item>
+                        <item>Henry Langly <abbr>Eſq</abbr> of Shrewsbury</item>
+                        <item>John Langley <abbr>Eſq</abbr> of Amias Shrop.</item>
+                        <item>Thomas Langly <abbr>Eſq</abbr>
+                        </item>
+                        <item>Henry Lavor <abbr>Eſq</abbr>
+                        </item>
+                        <item>John Lawſon M. D. London.</item>
+                        <item>Eldred Lancelot Lee <abbr>Eſq</abbr> of Cotton in the County of Salopp <abbr>Eſq</abbr>
+                        </item>
+                        <item>Dan. Leblon Merchant of Amſterdam</item>
+                        <item>Sr. Nicholas Leſtrange Bar. of Norfolke</item>
+                        <item>Roger Leſtrange <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sr. Peter Lely of London</item>
+                        <item>VV. Levinz M.D. Preſident of St. Johns C.Ox.</item>
+                        <item>Thomas Lewis <abbr>Eſq</abbr>
+                        </item>
+                        <item>Thomas Lewis Merchant of London</item>
+                        <item>John Lewknor <abbr>Eſq</abbr> of Weſt Dean Suſſex</item>
+                        <item>Edm. Long <abbr>Eſq</abbr> of Linehams Court Wiltſh.</item>
+                        <item>Sr. James Long of Wiltſhire.</item>
+                        <item>Mr. Lovell Cittizen of London</item>
+                        <item>John LLoyd, D. D. Principal of Jeſus Coll. Oxon.</item>
+                        <item>Will. LLoyd, D. D. Dean of Bangor</item>
+                        <item>Robert Lovet <abbr>Eſq</abbr>
+                        </item>
+                        <item>Richard Lucas Miniſter in Coleman-Street London</item>
+                        <item>Narciſſs Lutterel <abbr>Eſq</abbr>
+                        </item>
+                        <item>Edward Lutwych <abbr>Eſq</abbr>
+                        </item>
+                        <item>JAMES Duke of Monmouth Chancellor of the Univerſity of Cambridg</item>
+                        <item>JAMES Marqueſs of Montroſs</item>
+                        <item>ROBERT Earl of Mancheſter</item>
+                        <item>CHARLES Ld. Vicount Mordaunt</item>
+                        <item>WILLIAM Ld. Maynard</item>
+                        <item>GEORGE Ld. Dela Mere</item>
+                        <item>Sr. JOHN Skiffiington of Fiſhenwick Bar. Ld. Vicount Maſſereene</item>
+                        <item>LORENG Muller Envoy from the Duke of Brunſwick</item>
+                        <item>RICHARD Maiteland <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sr. GEORGE Mackenzie Ld. Advocate of Scotland</item>
+                        <item>Sr. GEORGE Mackenzie Ld. of Torbet</item>
+                        <item>Ralph Macro, M. D. London</item>
+                        <item>Robert Maddox <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sr. Thomas Mainwaring Bar. of Pever in Cheſhire</item>
+                        <item>Rawlin Mallack <abbr>Eſq</abbr> of Cockington Devon.</item>
+                        <item>Will. Man <abbr>Eſq</abbr> Sword-Bearer to the Ld. Mayor of London</item>
+                        <item>Thomas Manning of London</item>
+                        <item>Gerhardus Martens M. A. and Miniſter of the German-Church London</item>
+                        <item>Narciſſus Marſh S. T. P. Provoſt of Trinity Colledge in Dublin</item>
+                        <item>John Marſham <abbr>Eſq</abbr> of Cuxton Kent.</item>
+                        <item>Thomas Maſter <abbr>Eſq</abbr> of Ciciter</item>
+                        <item>Sr. John Matthews</item>
+                        <item>Robert Maylin <abbr>Eſq</abbr> of Binnie</item>
+                        <item>John Morris <abbr>Eſq</abbr> of London</item>
+                        <item>Henry Maurice Fellow of Jeſus Coll. Ox.</item>
+                        <item>Iſaac May Merchant of Amſterdam</item>
+                        <item>Clement Mayo <abbr>Eſq</abbr>
+                        </item>
+                        <item>Edmond Meadow <abbr>Eſq</abbr>
+                        </item>
+                        <item>Ro. Meine <abbr>Eſq</abbr> Poſtmaſter of Scotland.</item>
+                        <item>Sr. Richard Meredith Bar. of Denbiſhire</item>
+                        <item>Jonas More <abbr>Eſq</abbr> of the Tower of London</item>
+                        <item>John Meriton D. D. Rector of St Michael Cornhill London</item>
+                        <item>Roger Meredith <abbr>Eſq</abbr> Secretary of the Kings Embaſſy in Holland.</item>
+                        <item>Sr. Tho. Midleton Bar. of Denbiſhire</item>
+                        <item>John Millington <abbr>Eſq</abbr> of Newich</item>
+                        <item>Edward Mills of the Temple</item>
+                        <item>Walter Mills M. D.</item>
+                        <item>Adiell Mill Cittizen of London.</item>
+                        <item>William Molyneux of Dublin</item>
+                        <item>Owen Morgan <abbr>Eſq</abbr>
+                        </item>
+                        <item>Will Morton D. D. Dean of Xt. Church Dub<g ref="char:EOLhyphen"/>lin.</item>
+                        <item>Will. Moſes <abbr>Eſq</abbr> of London</item>
+                        <item>Luke Mott Fellow of Caius Coll. Camb.</item>
+                        <item>JAMES Earl of Northampton</item>
+                        <item>GEORGE Earl of Northumberland.</item>
+                        <item>JAMES Ld. Norreys</item>
+                        <item>FRANCIS Vicount Newport and Baron of High Archoll</item>
+                        <item>CHARLES Ld. North and Grey Baron of Kirtling and Rollſton</item>
+                        <item>ANDREW Newport <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sr. John Napper Bar. of Luton Bedfordſhire</item>
+                        <item>Georg Neale, M. D. of Leeds Yorkſhire</item>
+                        <item>Jaſper Needham M. D. London</item>
+                        <item>Walter Needham Honorary Fellow of the Kings Coll. of Phyſitians.</item>
+                        <item>Sr. Paul Neile of Codnor in Derbyſhire</item>
+                        <item>Goddard Nelthrop <abbr>Eſq</abbr> of Charter-Houſe-yard London</item>
+                        <item>Edward Nicholas <abbr>Eſq</abbr> of Hitcham</item>
+                        <item>Edward Nicholas <abbr>Eſq</abbr>
+                        </item>
+                        <item>John Nicholl <abbr>Eſq</abbr> Secretary to the Ld. Chan<g ref="char:EOLhyphen"/>cellor</item>
+                        <item>John Nicholls <abbr>Eſq</abbr> of Trewane in Cornw</item>
+                        <item>Will. Nicolſon Fellow of Queens Coll. Oxon</item>
+                        <item>Will. Nott Bookbinder to the Queens Ma<g ref="char:EOLhyphen"/>jeſty</item>
+                        <item>Tho. Novell M. D. London</item>
+                        <item>JAMES Duke of Ormond Ld. Lieutenant of Ireland and Chancellor of the Univerſity of Oxon.</item>
+                        <pb facs="tcp:175322:4"/>
+                        <item>THOMAS Earl of Oſſory</item>
+                        <item>AWBREY Earl of Oxford</item>
+                        <item>JOHN Ld. Bp. of Oxon</item>
+                        <item>Sr. Thomas Ogle of Lincolnſhire</item>
+                        <item>Will. Oliver Bookſeller in Norwich</item>
+                        <item>Rich. Owen D. D. Rector of St. Swithin and of St. Mary Bothaw London.</item>
+                        <item>Sr. Henry Oxenden Bar. of Dean in Kent</item>
+                     </list>
+                     <list>
+                        <head>
+                           <hi>Colleges in</hi> Oxford <hi>which have Subſcrib<g ref="char:EOLhyphen"/>ed, are</hi>
+                        </head>
+                        <item>All Souls Coll. Tho. James D. D. VVarden</item>
+                        <item>Brazen-Noſe Tho. Yate. D. D. Principal</item>
+                        <item>Bailioll John Venn Mr.</item>
+                        <item>Chriſt Church John Ld. Bp. of Oxon Dean</item>
+                        <item>Corpus Chriſti Dr. Newlin Preſident</item>
+                        <item>Edmund Hall Stephen Penton Principal</item>
+                        <item>Exeter, Arthur Berry D. D. Rector</item>
+                        <item>Jeſus, John LLoyd D. D. Principal</item>
+                        <item>St. Johns VVill. Levinz M.D. Preſident</item>
+                        <item>Lincoln Tho. Marſhal D. D. Rector</item>
+                        <item>Magdalen Henry Clark M. D. Preſident</item>
+                        <item>Merton Sr. Thomas Clayton VVarden</item>
+                        <item>New Coll. Dr. Beeſton VVarden</item>
+                        <item>Oriel Robert Say D. D. Provoſt</item>
+                        <item>Pembroke John Hall D. D. Maſter</item>
+                        <item>Queens Tim. Halton D. D. Provoſt and Vice-Chancellor</item>
+                        <item>Trinity Ralph Bathurſt M. D. Preſident</item>
+                        <item>Univerſity Obadiah VValker Maſter</item>
+                        <item>Wadham Gil. Ironſide D. D. Warden.</item>
+                        <item>WILLIAM Ld. Herbert Earl of Powis</item>
+                        <item>CHARLES Earl of Plymouth</item>
+                        <item>JAMES Earl of Perth.</item>
+                        <item>WILLIAM Ld. Bp. of Peterborough</item>
+                        <item>WILLIAM Ld. Paget</item>
+                        <item>Sr. Tho. Page Provoſt of Kings Coll. Cambr.</item>
+                        <item>Juſtinian Pagit. <abbr>Eſq</abbr>
+                        </item>
+                        <item>Allington Painter <abbr>Eſq</abbr>
+                        </item>
+                        <item>VVill. Palliſer D.D. Reg. Prof. in Dublin</item>
+                        <item>Thomas Papilion Merchant in London</item>
+                        <item>Richard Parr D. D. of Camberwell</item>
+                        <item>George Payn Fell. Com. of Clare Hall Camb.</item>
+                        <item>Robert Payn <abbr>Eſq</abbr>
+                        </item>
+                        <item>Will. Peachey <abbr>Eſq</abbr> of New-Grove Suſſex</item>
+                        <item>Robert Peaſe Merchant in Amſterdam</item>
+                        <item>Will. Peiſley <abbr>Eſq</abbr> of the Temple</item>
+                        <item>John Pell D. D.</item>
+                        <item>Mr. Pelling of St. Martins Ludgate Lond.</item>
+                        <item>Sam. Pepys <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sr. Philip Percival Bar. of Ireland</item>
+                        <item>Ralph Petley <abbr>Eſq</abbr> High Sheriff of Kent</item>
+                        <item>William Pett Citizen of London</item>
+                        <item>Alexander Pitfeild of Hoxdon Middleſex <abbr>Eſq</abbr>
+                        </item>
+                        <item>Robert Pleydall <abbr>Eſq</abbr>
+                        </item>
+                        <item>Robert Plott L.L.D. of Univerſity Coll. Oxon.</item>
+                        <item>Sr. Walter Plunkett of Rathfeale Kt. in the County of Dublin in Ireland</item>
+                        <item>Tho. Plume D.D. Arch-Deacon of Roch.</item>
+                        <item>Charles Porter <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sr. Roger Potts Bar.</item>
+                        <item>Will. Powel <abbr>Eſq</abbr> of Sulham Barkſhire</item>
+                        <item>Henry Powel <abbr>Eſq</abbr>
+                        </item>
+                        <item>William Price <abbr>Eſq</abbr>
+                        </item>
+                        <item>Hum. Prideaux Student of Ch. Ch. Coll. Oxon</item>
+                        <item>Richard Prince <abbr>Eſq</abbr> of Abcott Shropſhire</item>
+                        <item>Robert Pringell <abbr>Eſq</abbr> of Stichell</item>
+                        <item>Aaron Atkins Merchant of Amſterdam</item>
+                        <item>John Pulleyn Miniſter of the Engliſh Church at Hamburgh</item>
+                        <item>Sr. Will. Pulteney of St. Martins in the Fields London.</item>
+                        <item>Sr. Robt. Pye of Farindon Barkſh.</item>
+                        <item>CHARLES Duke of Richmond and Lynox</item>
+                        <item>JOHN Duke of Rothes Ld. High Chancellor of Scotland.</item>
+                        <item>JOHN Earl of Rocheſter</item>
+                        <item>JOHN Ld. Bp. of Rocheſter</item>
+                        <item>GEORGE Ld. Roſſe of Scotland</item>
+                        <item>Sr. Will. Rant of Norfolk</item>
+                        <item>Sr. Jonathan Raymond Sheriff of Lond.</item>
+                        <item>Ambroſe Rea Miniſter in Eſſex</item>
+                        <item>Sr. Charles-Crofts Read of Bradwell in Suffolk</item>
+                        <item>Nich. Reppes D. D.</item>
+                        <item>John Rhodes Regiſter to the Bp. of Roch.</item>
+                        <item>Peter Rich <abbr>Eſq</abbr> of Lambeth</item>
+                        <item>Godf. Richards, Citizen of Lond.</item>
+                        <item>John Richards <abbr>Eſq</abbr>
+                        </item>
+                        <item>John Richardſon <abbr>Eſq</abbr>
+                        </item>
+                        <item>Edward Rigby Citizen of London</item>
+                        <item>Sr. Thomas Roberts Bar. of Glaſſonbury</item>
+                        <item>John Robinſon <abbr>Eſq</abbr> Agent for his Majeſtie to the King of Sweden</item>
+                        <item>Thomas Robinſon <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sr. Richard Rooth</item>
+                        <item>James Rothwell <abbr>Eſq</abbr>
+                        </item>
+                        <item>John Rowland Johnſon of Amſterdam</item>
+                        <item>Henry Rumball <abbr>Eſq</abbr>
+                        </item>
+                        <item>Benjamin Rudyard <abbr>Eſq</abbr> Barkſhire</item>
+                        <item>Sr. William Ruſſel of Langhorn in the Coun<g ref="char:EOLhyphen"/>ty of Carmarthen Barronett</item>
+                        <item>Michael Rutter <abbr>Eſq</abbr> of Baton on the Hill Glouceſterſhire</item>
+                        <item>CHARLES Duke of Somerſet</item>
+                        <item>CHARLES Duke of Southampton</item>
+                        <item>JAMES Earl of Sailsbury</item>
+                        <item>ROBERT Earl of Sunderland Principal Se<g ref="char:EOLhyphen"/>cretarie of State</item>
+                        <item>EDWARD Earl of Sandwich</item>
+                        <item>ANTHONY Earl of Shaftsbury</item>
+                        <item>KENNETH Earl of Seafort</item>
+                        <item>ELIZABETH Shannon Vice-Counteſs of Shannon</item>
+                        <item>SETH Ld. Bp. of Salisbury</item>
+                        <item>OTHO Baron Swerin Envoy Extraordinary from his Electoral Highneſs of Branden<g ref="char:EOLhyphen"/>burg, to his Majeſty of Great Britain</item>
+                        <item>EZEK. Spanheim, Envoy Extraordinary from the P. Elector of Brandenburg to the King of France.</item>
+                        <item>PAOLO Sarotti Reſident from the Republick of Venice at the Court of Great Britain</item>
+                        <item>ALEXANDER Stanhope <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sr. ROBERT Southwell Envoy Extraordinary from his Majeſty of great Britain to the P. Elect. of Brandenburg</item>
+                        <item>Sam. Sainthill <abbr>Eſq</abbr> of Devonſhire</item>
+                        <item>Samuel Sandors <abbr>Eſq</abbr> of Darbyſhire</item>
+                        <item>Dr. Robert Say Provoſt of Oriel Coll Oxon</item>
+                        <item>John Saumures D. D. Dean of Garnſey</item>
+                        <item>Sr. Edward Seymour Bar. of Bury-Pomeroy in Devonſhire and High Sheriff of the ſaid County</item>
+                        <item>Dean and Chapter of Salisbury</item>
+                        <item>Charles Sankey D. D.</item>
+                        <item>Charles Shaw of Trinity Coll. Cambridge</item>
+                        <item>John Slade Rector Burg-clere Hampſhire</item>
+                        <item>Edward Smith Citizen of London</item>
+                        <item>Sr. Carr Scroop of Lond. Baronett</item>
+                        <item>Dr. Scott L.L.D. of Camberwell Can. of Wind.</item>
+                        <item>Sr. John Sherard of Lopthorp Bar. Lincolnſh.</item>
+                        <item>Tho. Sheridan <abbr>Eſq</abbr> of the County of Cavan Ireland</item>
+                        <item>Henry St. Johns <abbr>Eſq</abbr>
+                        </item>
+                        <item>Stephen Swart Bookſeller of Amſterdam</item>
+                        <item>Francis St. John's <abbr>Eſq</abbr> of Thorp Nor-thamp<g ref="char:EOLhyphen"/>tonſhire</item>
+                        <item>Sr. Charles Scarburgh, Cheif Phyſitian to his Royal Highneſs</item>
+                        <item>Sr. Francis Scott of Thirleſton</item>
+                        <item>Robert Scott B. D. Sen. Fellow of Trin. Coll. Cambridge</item>
+                        <item>Henry Seymour <abbr>Eſq</abbr>
+                        </item>
+                        <item>Charles Shaw of Trinity Coll. Cambridge</item>
+                        <item>Daniel Sheldon Merchant of London</item>
+                        <item>Sr. Joſeph Sheldon Alderman of London</item>
+                        <item>Ed. Sherburn <abbr>Eſq</abbr> Clark of his Majeſties Ord<g ref="char:EOLhyphen"/>nance and Armory within the Kingdom of England</item>
+                        <item>Will. Shipman Merchant of London</item>
+                        <item>Ed. Shires <abbr>Eſq</abbr> of Hadam Hartfordſh.</item>
+                        <item>Thomas Short M. D.</item>
+                        <item>Will. Shortgrave Fellow of Wadham Coll. Oxon</item>
+                        <item>William Sill Archdeacon of Colcheſter</item>
+                        <item>George Sittwell <abbr>Eſq</abbr>
+                        </item>
+                        <item>John Skelton Arch-Deacon of Bedford</item>
+                        <item>George Smith M. D. of Thiſtleworth Mid<g ref="char:EOLhyphen"/>dleſex</item>
+                        <item>Barthol. Soame Citizen of London.</item>
+                        <item>James Sotheby <abbr>Eſq</abbr> of Grays Inn Lon.</item>
+                        <item>Fredrick Spanheim D. D. Profeſſor of Divi<g ref="char:EOLhyphen"/>nity at Leyden</item>
+                        <item>John Speke <abbr>Eſq</abbr> of Somerſetſhire</item>
+                        <item>VVilliam Spencer <abbr>Eſq</abbr>
+                        </item>
+                        <item>Henry Stafford <abbr>Eſq</abbr>
+                        </item>
+                        <item>VVill. Stanly Fellow of Corpus Chriſti Coll. Cambridge</item>
+                        <item>James Stevens <abbr>Eſq</abbr> of Stowell</item>
+                        <item>Edward Stillingfleet D. D. Dean of St. Pauls London</item>
+                        <item>HORATIO Ld. Townſend Baron of Lyn Regis or Kings Linn</item>
+                        <item>Sr. Gil. Talbot Mr. of the Jewel-Houſe</item>
+                        <item>Sr. Robert Talbor</item>
+                        <item>John Taylor M. D. of his Majeſties Commiſ<g ref="char:EOLhyphen"/>ſioners of the Wine Licence of Office</item>
+                        <item>Nathaniel Tench <abbr>Eſq</abbr> London</item>
+                        <item>Thomas Teniſon D. D.</item>
+                        <item>Tho. Tipping of Wheatfield <abbr>Eſq</abbr> in Oxfordſh.</item>
+                        <item>Sr. John Thompſon Bar. of Bucks.</item>
+                        <item>John Thornton <abbr>Eſq</abbr> of Brock-Hall Nor<g ref="char:EOLhyphen"/>thamptonſhire</item>
+                        <item>George Thorp D. D.</item>
+                        <item>John Tilliſon Controllour of my Ld. of Can<g ref="char:EOLhyphen"/>terburys Houſhold</item>
+                        <item>Hugh Todd, Fel. of Univerſity Coll. Ox.</item>
+                        <item>Sam. Tomſon <abbr>Eſq</abbr>
+                        </item>
+                        <item>Richard Topham <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sr. Jonathan Trelawny Bar. of Trelawny Cornwall</item>
+                        <item>VVill. Trevill <abbr>Eſq</abbr> of Cornwall</item>
+                        <item>Charles Trumbull L. L. D.</item>
+                        <item>VVill. Trumbull L. L. D. of Doctors Com<g ref="char:EOLhyphen"/>mons London</item>
+                        <item>Ralph Trumbull of VVhitney Oxfordſhire</item>
+                        <item>Francis Turner D. D.</item>
+                        <item>Thomas Turner B. D. Fellow of Corp. Chriſt. Coll. Oxon.</item>
+                        <item>VVill. Turner B. D.</item>
+                        <item>Dr. VVill. Turner of Aberdene.</item>
+                        <item>Cornelius Vermuyden <abbr>Eſq</abbr> of Derbyſhire</item>
+                        <item>Edmond Vintener M. D. Fellow of Kings Coll. Cambridge</item>
+                        <item>Sr. Tho. Vernon Bar. of Hodnett Shropſh.</item>
+                        <item>Henry Ulenbrook Jun. Merchant in Amſterd.</item>
+                        <item>Iſaac Voſsius D. D. Canon of VVindſor</item>
+                        <item>Stephen Upman Fellow of Eaton. Coll.</item>
+                        <item>Robert. Uvedale of Enfeild Middleſex</item>
+                        <item>HENRY Ld. <abbr>Marq</abbr> of VVorceſter</item>
+                        <item>CHARLES Ferdinand Earl of VValſtein, En<g ref="char:EOLhyphen"/>voy Extraordinary from the Emperor to his Majeſty of Great Britain.</item>
+                        <item>GEORGE Ld. Bp. of VVincheſter</item>
+                        <item>EDWARD Ld. VVard of Dudley Caſtle Staf<g ref="char:EOLhyphen"/>fordſhire</item>
+                        <item>SIDNEY Wortley alias Montague <abbr>Eſq</abbr>
+                        </item>
+                        <item>VVill. VVake Student of Ch. Ch. Oxon.</item>
+                        <item>Edward VVake of London</item>
+                        <item>Obad. VValker Mr. of Univerſity Coll. Oxon</item>
+                        <item>Sr. Will. Waller</item>
+                        <item>John VVallis D. D. Geometry Profeſſor Oxon</item>
+                        <item>Hen. VVallop <abbr>Eſq</abbr> of Farly-Clop Hamſh.</item>
+                        <item>Sr. VVilliam VValter of Sareſden Oxfordſh.</item>
+                        <item>James VVard <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sr. Patience VVard Alderman of Lond.</item>
+                        <item>John VVarner Arch Deacon of Rocheſt.</item>
+                        <item>Thomas VVatkins <abbr>Eſq</abbr>
+                        </item>
+                        <item>Thomas VVatſon Mr. of the Charter-Houſe School London</item>
+                        <item>VVill. VVatſon D. D. Dean of Battell</item>
+                        <item>Robert Waith <abbr>Eſq</abbr> of Camberwell Surry.</item>
+                        <item>Edmond Waring <abbr>Eſq</abbr> of Oldbury Shropſhire</item>
+                        <item>Sr. Phillip Warwick</item>
+                        <item>John Johnſonius a Wasberg Bookſellor of Am<g ref="char:EOLhyphen"/>ſterdam and Son in Law to Johnſonius that ſet forth the former Atlas.</item>
+                        <item>Sr. Chriſtopher Wandesford Bar. of Kirkling<g ref="char:EOLhyphen"/>ton Yorkſhire</item>
+                        <item>William Walſh of Abberly Park <abbr>Eſq</abbr> Worceſterſhire</item>
+                        <item>Thomas Watſon D.D. Fellow of St Johns Coll. Cambridge</item>
+                        <item>Thomas Weaver of Morvil Shropſhire</item>
+                        <item>John VVedderburn <abbr>Eſq</abbr> of Golford</item>
+                        <item>Dean and Chapter of Wells</item>
+                        <item>John VVelthdale <abbr>Eſq</abbr>
+                        </item>
+                        <item>Paul VVentworth <abbr>Eſq</abbr> of Lillingſton Buck<g ref="char:EOLhyphen"/>inghamſhire</item>
+                        <item>Herbert VVeſtfaling <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sr. George VVharton Bar. of Kirkby Kendall VVeſtmorland Treaſurer to the Office of his Majeſties Ordinance</item>
+                        <item>Philip VVharton <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sr. John VVhatton of Leeiceſterſhire</item>
+                        <item>Coll. Roger VVhitley</item>
+                        <item>Thomas VVhitley <abbr>Eſq</abbr>
+                        </item>
+                        <item>Ralph VVilbraham <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sr. Joſeph VVilliamſon, Preſident of the Royal Society</item>
+                        <item>Thomas VVillis <abbr>Eſq</abbr> Student of Ch. Ch. Oxon</item>
+                        <item>Edward VVilſon <abbr>Eſq</abbr> of Dallam Tower, Weſt<g ref="char:EOLhyphen"/>morland</item>
+                        <item>Sr. Hump. VVinch, Bar. of Hannes in Bed<g ref="char:EOLhyphen"/>fordſhire</item>
+                        <item>William Winde <abbr>Eſq</abbr>
+                        </item>
+                        <item>Paul Wicks of London <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sr. Will. Whitmore Bar. of Apley Shropſh.</item>
+                        <item>Sr. Paul Whichcot Kt. and Bar. of Hendon Middleſex</item>
+                        <item>Sr. Francis VVithens of VVeſtm.</item>
+                        <item>Sir John VVittewronge Kt. Bar. of Stantonbury in Buckinghamſhire:</item>
+                        <item>Francis VVolferſton <abbr>Eſq</abbr> of Statfold, in Staf<g ref="char:EOLhyphen"/>fordſhire</item>
+                        <item>John VVolryche <abbr>Eſq</abbr> of Dudmaſton</item>
+                        <item>John VVoſtenholme <abbr>Eſq</abbr> of Enfield in Mid.</item>
+                        <item>Rich. VVroe B. D. of VVigan, Lancaſh.</item>
+                        <item>Sr. Chriſtopher VVren Surveior General to his Majeſty</item>
+                        <item>Sr. Henry VVright Bar. of Dogenham Eſſex</item>
+                        <item>Lawr. Womock D.D. Arch-Deacon of Suffolk</item>
+                        <item>Sr. Cyril VVyche of Hockwold and Wilton Shropſhire</item>
+                        <item>John Wynne <abbr>Eſq</abbr>
+                        </item>
+                        <item>Owen Wynne <abbr>Eſq</abbr>
+                        </item>
+                        <item>Benjamin Woodroff D. D. Canon of Ch. Ch. Oxon</item>
+                        <item>Sr. Peter VVyche</item>
+                        <item>Lady VVymondeſold, of Putney</item>
+                        <item>Tho. VVyndham <abbr>Eſq</abbr> Grome of the Bed<g ref="char:EOLhyphen"/>chamber</item>
+                        <item>John VVyvell Miniſter by Rocheſter</item>
+                        <item>RICHARD Ld. Arch Bp. of York</item>
+                        <item>ROBERT Earl of Yarmouth</item>
+                        <item>Robert Yard <abbr>Eſq</abbr>
+                        </item>
+                        <item>John Yardley M.D. Col. Med. Lond. S. Hon.</item>
+                        <item>Tho. Yate D. D. Principal of Brazen-Noſe Coll. Oxon</item>
+                        <item>James Young <abbr>Eſq</abbr>
+                        </item>
+                        <item>Robert Young Canon of VVindſor</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:175322:4"/>
+            <head>THE INTRODUCTION.</head>
+            <p>
+               <note place="margin">The In<g ref="char:EOLhyphen"/>tention of the whole Work.</note>
+               <hi>
+                  <seg rend="decorInit">C</seg>OSMOGRAPHY</hi> is a general deſcription of the whole World, con<g ref="char:EOLhyphen"/>ſiſting of Heaven and Earth: of both which an account is intended to be given in this Atlas; that of the Heavens is re<g ref="char:EOLhyphen"/>ſerv'd to a peculiar Vo<g ref="char:EOLhyphen"/>lume. It being (as we conceive) of greater neceſſity, that we begin with that of the Earth. And firſt of this great Globe in general; the deſcription whereof be<g ref="char:EOLhyphen"/>longs to <hi>Geography;</hi> as that of particular Regi<g ref="char:EOLhyphen"/>ons and Countries is called <hi>Chorography,</hi> which is contained in their peculiar Maps. Nor ſhall we omit, ſuch <hi>Topographical</hi> deſcripti<g ref="char:EOLhyphen"/>ons, or the knowledg of leſſer places, as Ci<g ref="char:EOLhyphen"/>ties, Rivers, Mountains, <hi>&amp;c.</hi> where advantage may be to the Reader. Now this Globe, which we call of the Earth, conſiſteth of Land and Water, or Seas; the deſcription of thoſe is pro<g ref="char:EOLhyphen"/>perly nam'd <hi>Hydrography,</hi> which ſets forth the ſuperficies of the Seas, and mouths of greater Rivers, the Havens, Rocks, Shallows, Creeks, and ſuch other conſiderations as concern Navigati<g ref="char:EOLhyphen"/>on; to this alſo an entire Volume in this Edi<g ref="char:EOLhyphen"/>tion of an Atlas, is deſigned. And becauſe that of ancient times, the diviſions and boundaries of Kingdoms and Countries were very much divers from thoſe at preſent; to avoid confuſion, which muſt needs happen by treating in the ſame place of things ſo different, it is thought neceſſary to reſerve the ancient Geography to a particu<g ref="char:EOLhyphen"/>lar Tome, to be put forth, with the reſt, in its due time. Thus you have an account of what is intended in the Edition of this Great Work.</p>
+            <p>But it is firſt neceſſary to explain ſuch terms, and lay ſuch general grounds as are of uſe thro all the Volumes; which is the ſubject of this Preface, or Introduction.</p>
+            <p>
+               <note place="margin">Of the Globe of the Earth.</note>Firſt then it is to be noted, that the Earth and Water make but one body, the figure whereof is round, and therefore is beſt and moſt natu<g ref="char:EOLhyphen"/>rally repreſented by thoſe we call Globes; tho Maps alſo, or plain Figures, if carefully drawn, are ſufficiently exact. This propoſition, tho it might be ſuppoſed rationally enough, as now granted by all learned men; yet may it be evi<g ref="char:EOLhyphen"/>dently proved, both from Celeſtial and Terreſtrial appearances; whereof an account and reaſon may eaſily be given by this figure, and not by any other. The Sun and the Stars riſe ſooner to them who live Eaſtwardly, then they do to us; which could not be if the whole face of the Earth were plain. 2. To thoſe who live more or leſs Northward, the Pole is more or leſs elevated; for thoſe inhabitants of <hi>Iſeland, Lap<g ref="char:EOLhyphen"/>land, &amp;c.</hi> who live about a thouſand miles more Northward then we do, ſee the Pole-ſtar fifteen degrees higher then we can. And thoſe, who travel hence towards thoſe Countries, do find that this variation is made gradually, altering about a degree and a half at the end of every hundred miles; which could not be, except the body on which they moved were Spherical. 3. The Shadow which the Earth caſteth upon the Moon, when ſhe is partially eclipſed, is ſeen to be cir<g ref="char:EOLhyphen"/>cular; and therefore the body which cauſes it muſt be ſo too. To theſe we may add, that many Propoſitions in Aſtronomy, Geography, and Navigation are founded on this ſuppoſi<g ref="char:EOLhyphen"/>tion, and when they are applyed to uſe they prove true, and ſucceed according to expectation; which certainly they would not always do, if the very foundation upon which they are built, were un<g ref="char:EOLhyphen"/>ſound. The ſame alſo is proved by plain ſenſe and experiment, as well as by reaſon and conſe<g ref="char:EOLhyphen"/>quence; for we perceive, that Ships which looſe from their Harbours in calm weather, diſappear gradually, firſt their Hulks, then their Sails, and after a few miles their higheſt Maſts; the natu<g ref="char:EOLhyphen"/>ral convexity of the water interpoſing betwixt them and our ſight. Several alſo of our Country<g ref="char:EOLhyphen"/>men and Neighbours have ſailed round about this Globe, looſing hence Weſtwardly, and re<g ref="char:EOLhyphen"/>turning again fromwards the Eaſt. From which, and other Navigations, we may conclude, not only that naturally no part of the Ocean is higher then another; but alſo that we may ſail from any part to any part of the ſuperficies of the Ocean; and that every Continent hath Sea about it, and is indeed but a greater Iſland.</p>
+            <p>
+               <note place="margin">Of the ſi<g ref="char:EOLhyphen"/>tuation of the Earth.</note>The controverſie about the ſituation of this Globe, whether it ſtand ſtill in the midſt, and as it were center, of the world, as the ancients generally opined; or whether it move upon its own axis, and about the Sun as the center; be<g ref="char:EOLhyphen"/>ſides that it is not ſo much to our purpoſe in this as in the Volume of the Heavens, the Maps and Deſcriptions being the ſame in both ways, and that the learned are not come to any iſſue in it, nor have we any thing to add to the common and vulgar probable arguments only, we ſhall omit.</p>
+            <p>The parts of this Globe are naturally ſeparated one from another by Seas, ledges of Mountains, Rivers, Deſarts, and the like. Which are very opportune for the diſtinction of Nations, King<g ref="char:EOLhyphen"/>doms, and Governments.</p>
+            <p>
+               <note place="margin">Of the Waters in this Globe.</note>In the beginning of the Creation, the Waters being lighter then the Earth accordingly over<g ref="char:EOLhyphen"/>ſpread and compaſſed it to ſome conſiderable height; <gap reason="missing" resp="#UOM" extent="2+ pages">
+                  <desc>〈2… pages missing〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:175322:5"/>
+            <pb facs="tcp:175322:5"/>
+            <pb facs="tcp:175322:6"/>
+            <pb facs="tcp:175322:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
